@@ -14,14 +14,14 @@
 
 	  	0.0  7.0  4.0 
                      
-	    1.0  5.0  3.0     --> the users selects 1 column and 2 lines (line 1 and 3 and column 1)
+	        1.0  5.0  3.0     --> the users selects 1 column and 2 lines (line 1 and 3 and column 1)
                     
 	  	1.0  4.0  6.0 
 ------------------------------------------------------------------------------------------------
 
- 	    0.0  
-                        --> Matrix B
-	    1.0  
+		0.0  
+			          --> Matrix B
+		1.0  
 
 */
 
